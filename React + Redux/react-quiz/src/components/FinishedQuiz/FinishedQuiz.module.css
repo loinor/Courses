@@ -4,7 +4,7 @@
     border: 2px solid #fff;
     border-radius: 5px;
     box-sizing: border-box;
-    margin: 0px 10px;
+    margin: 0 10px;
 }
 
 .FinishedQuiz ul {
@@ -13,7 +13,7 @@
     margin: 0;
 }
 
-.FinishedQuiz ul li svg {
+.FinishedQuiz ul li i {
     margin-left: 10px;
 }
 
