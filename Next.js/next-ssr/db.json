@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "React Post",
+            "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "id": 2,
+            "title": "JavaScript Post",
+            "body": "Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel."
+        },
+        {
+            "id": 3,
+            "title": "Next Post",
+            "body": "Nisl suscipit adipiscing bibendum est ultricies integer quis auctor."
+        }
+    ]
+}
